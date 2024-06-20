@@ -1,7 +1,0 @@
-_____ This version submitted to Preliminary test 1______
-# CONF_LABCONF r1 r2 r3 r4 s1 s2 s3 c1 c2 s1 s2 s3 c1 c2 bind apache2 isc-dhcp-server isc-dhcp-relay 
-ERROR: you must run isc-dhcp-relay on at least one device 
-ERROR: r2 must have eBGP peering with AS21 
-# START_KATHARA 
-# DHCLIENT c1 
-The grading script terminates here since your client does not get an IP address from the DHCP server.
