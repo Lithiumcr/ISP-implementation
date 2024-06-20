@@ -1,5 +1,7 @@
 # ISP Implementation Project
 
+![Static Badge](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-zh?logoColor=%23C8161E&link=README-zh.md)
+
 ### Project Overview
 
 This project involves the design, configuration, and implementation of an Internet Service Provider (ISP) network, using TCP/IP networks and Unix-based systems. It provides hands-on experience in managing and delivering various network services, adhering to both intra-domain and inter-domain routing protocols.
