@@ -1,6 +1,7 @@
 # ISP Implementation Project
 
 [![Languages](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-zh-C8161E.svg)](README-zh.md)
+[![GPLv3 license](https://img.shields.io/badge/license-GPLv3-lightgrey.svg)](LICENCE.txt)
 
 ### Project Overview
 

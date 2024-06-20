@@ -1,6 +1,7 @@
 # ISP 实现项目
 
 [![Languages](https://img.shields.io/badge/English-en-004791.svg)](README.md)
+[![GPLv3 license](https://img.shields.io/badge/license-GPLv3-lightgrey.svg)](LICENCE.txt)
 
 ### 项目概述
 
