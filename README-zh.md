@@ -1,5 +1,7 @@
 # ISP 实现项目
 
+[![Languages](https://img.shields.io/badge/English-en-004791.svg)](README.md)
+
 ### 项目概述
 
 该项目涉及使用TCP/IP网络和基于Unix的系统进行互联网服务提供商（ISP）网络的设计、配置和实现。它提供了管理和提供各种网络服务的实践经验，遵循域内和域间的路由协议。

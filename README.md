@@ -1,6 +1,6 @@
 # ISP Implementation Project
 
-![Static Badge](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-zh?logoColor=%23C8161E&link=README-zh.md)
+[![Languages](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-zh-C8161E.svg)](README-zh.md)
 
 ### Project Overview
 
